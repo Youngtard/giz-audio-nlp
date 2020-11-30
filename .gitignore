@@ -1,0 +1,13 @@
+data/
+AdditionalUtterances/
+AdditionalUtterancesConverted/
+AdditionalUtterancesConverted_2/
+audio_files/
+images_v1/
+nlp_keywords_29Oct2020/
+te m/
+te m2/
+tem/
+tem2/
+submissions/
+*.wav
